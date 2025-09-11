@@ -43,15 +43,14 @@ A passionate developer.
 
 - 📝 Checklist App *(Coming Soon)* A mobile app I'm developing for simple task management.
 
-- 🌐 [Mini Web Project - Patisserie Website](https://github.com/Naveus/pastane-web-sitesi
-- https://resplendent-biscotti-5221da.netlify.app/menus)  
+- 🌐 [Mini Web Project - Patisserie Website](https://github.com/Naveus/pastane-web-sitesi)  
   A simple website project I created using HTML, CSS, and JavaScript.
 
 *(Coming Soon: My personal introduction page will be live 🚀)*
 
 ### 🌐 Let's Connect
 
-- 📧 Mail: [keremkaan@example.com](mailto:keremkaan@example.com)  
+- 📧 Mail: [keremkaan099@gmail](mailto:keremkaan099@gmail.com)  
 - 💻 GitHub: [Naveus](https://github.com/Naveus)  
 
 ---
