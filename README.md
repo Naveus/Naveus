@@ -36,14 +36,14 @@ A passionate developer.
 
 ### 🚀 Projects
 
-- 🌐 [My Personal Website](https://senin-websiten.com)  
+- 🌐 [My Personal Website]()  
   My personal website showcasing my work and introducing myself.
 
 - 🎮 Reigns-like Card Game (Unity) *(Coming Soon)* A Reigns-style card game I'm developing with Unity.
 
 - 📝 Checklist App *(Coming Soon)* A mobile app I'm developing for simple task management.
 
-- 🌐 [Mini Web Project - Patisserie Website](https://github.com/Naveus/pastane-web-sitesi)  
+- 🌐 [Mini Web Project - Patisserie Website](https://github.com/Naveus/pastane-web-sitesi-https://resplendent-biscotti-5221da.netlify.app/menus)  
   A simple website project I created using HTML, CSS, and JavaScript.
 
 *(Coming Soon: My personal introduction page will be live 🚀)*
