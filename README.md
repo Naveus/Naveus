@@ -36,7 +36,7 @@ A passionate developer.
 
 ### 🚀 Projects
 
-- 🌐 [My Personal Website]()  
+- 🌐 [My Personal Website](https://naveus.netlify.app/)  
   My personal website showcasing my work and introducing myself.
 
 - 🎮 Reigns-like Card Game (Unity) *(Coming Soon)* A Reigns-style card game I'm developing with Unity.
