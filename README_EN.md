@@ -1,36 +1,36 @@
-<h1 align="center"> Merhaba, Ben Kerem 👋 </h1>
+<h1 align="center"> Hi, I'm Kerem 👋 </h1>
 
 <p align="right">
-  <a href="README_EN.md">🇬🇧 English</a>
+  <a href="README.md">🇹🇷 Türkçe</a>
 </p>
 
 <p align="center">
-Tutkulu bir yazılımcı.
+A passionate developer.
 </p>
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 
-- **Bilecik Şeyh Edebali Üniversitesi**'nde **Bilgisayar Programcılığı** okuyorum.
-- Kendimi geliştirmek için farklı yollar deniyorum:
-  - Basit oyun modelleri ve animasyonlar
-  - Mini mobil oyunlar
-  - *Reigns* tarzı kart oyunu (devam ediyor)
-  - Basit mobil uygulamalar (örn: yapılacaklar listesi)
-  - Basit web siteleri ve benzeri projeler
-  - **Siber güvenlik araçları ve uzaktan yönetim**
-- Yazılım alanında sürekli yeni şeyler öğrenmeyi ve üretmeyi seviyorum.
+- I'm currently studying **Computer Programming** at **Bilecik Şeyh Edebali University**.
+- I try different ways to improve myself:
+  - Simple game models and animations
+  - Mini mobile games
+  - *Reigns*-style card game (still in progress)
+  - Simple mobile apps (e.g., a checklist)
+  - Simple websites and similar projects
+  - **Cybersecurity tools and remote administration**
+- I love to constantly learn and create new things in the field of software.
 
-### 💼 Neler Yapıyorum
+### 💼 What I Do
 
-- 🎨 **Web Tasarım** - Modern, responsive ve kullanıcı dostu web siteleri oluşturma
-- 🔧 **Backend Geliştirme** - Sunucu tarafı uygulamalar ve API'ler oluşturma
-- 📱 **Uygulama Geliştirme** - Mobil uygulama geliştirme
-- 🎮 **Oyun Geliştirme** - Unity ile oyun yapımı
-- 🛡️ **Siber Güvenlik** - Güvenlik araçları ve uzaktan yönetim
+- 🎨 **Web Design** - Creating modern, responsive and user-friendly websites
+- 🔧 **Backend Development** - Building server-side applications and APIs
+- 📱 **App Development** - Developing mobile applications
+- 🎮 **Game Development** - Creating games with Unity
+- 🛡️ **Cybersecurity** - Security tools and remote administration
 
-### 🛠️ Teknoloji Yığını
+### 🛠️ Tech Stack
 
-#### 💻 Programlama Dilleri
+#### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,14 +39,14 @@ Tutkulu bir yazılımcı.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-#### ⚙️ Frameworkler & Kütüphaneler
+#### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
-#### 🔧 Araçlar & Platformlar
+#### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -54,24 +54,24 @@ Tutkulu bir yazılımcı.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-#### 🎮 Oyun Geliştirme & 3D
+#### 🎮 Game Development & 3D
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-### 🚀 Projeler
+### 🚀 Projects
 
-| Proje | Açıklama | Link |
-|-------|----------|------|
-| 🛡️ **SiberGuvenlik** | Python & PyQt5 ile siber güvenlik eğitim aracı | [GitHub](https://github.com/Naveus/SiberGuvenlik) |
-| 🍽️ **Dinç Kardeşler** | Söğüt'te bir müşteri için restoran web sitesi | [Web Sitesi](https://erkanustaws.netlify.app/) |
-| 🌐 **Kişisel Site** | Kişisel portfolyo web sitem | [Web Sitesi](https://naveus.netlify.app/) |
-| 🍴 **Türk Mutfağı** | Grid, Flexbox & jQuery ile Türk mutfağı sitesi | [Web Sitesi](https://wtodev.netlify.app/) |
-| 🎮 **Kart Oyunu** | Reigns tarzı kart oyunu (Unity) | *Yakında* |
-| 📝 **Yapılacaklar** | Mobil görev yönetimi uygulaması | *Yakında* |
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛡️ **SiberGuvenlik** | Cybersecurity education tool with Python & PyQt5 | [GitHub](https://github.com/Naveus/SiberGuvenlik) |
+| 🍽️ **Dinç Kardeşler** | Restaurant website for a client in Söğüt | [Website](https://erkanustaws.netlify.app/) |
+| 🌐 **Personal Website** | My personal portfolio website | [Website](https://naveus.netlify.app/) |
+| 🍴 **Türk Mutfağı** | Turkish cuisine website with Grid, Flexbox & jQuery | [Website](https://wtodev.netlify.app/) |
+| 🎮 **Card Game** | Reigns-style card game (Unity) | *Coming Soon* |
+| 📝 **Checklist App** | Mobile task management app | *Coming Soon* |
 
-### 🌐 İletişim
+### 🌐 Let's Connect
 
 <p>
   <a href="mailto:keremkaan099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -83,5 +83,5 @@ Tutkulu bir yazılımcı.
 ---
 
 <p align="center">
-  <i>"Her zaman üret, Her zaman öğren! ✍️"</i>
+  <i>"Always building, Always learning! ✍️"</i>
 </p>
