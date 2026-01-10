@@ -1,4 +1,9 @@
 <h1 align="center"> Hi, I'm Kerem 👋 </h1>
+
+<p align="right">
+  <a href="README_TR.md">🇹🇷 Türkçe</a>
+</p>
+
 <p align="center">
 A passionate developer.
 </p>
@@ -26,61 +31,52 @@ A passionate developer.
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
 #### ⚙️ Frameworks & Libraries
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
 
 #### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 #### 🎮 Game Development & 3D
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
 
 ### 🚀 Projects
 
-- 🛡️ [**SiberGuvenlik** - Cybersecurity Education Tool](https://github.com/Naveus/SiberGuvenlik)  
-  A remote administration tool for cybersecurity education. Features live screen streaming, remote control, system management and more. Built with Python & PyQt5.
-
-- 🍽️ [**Dinç Kardeşler** - Restaurant Website](https://erkanustaws.netlify.app/)  
-  A modern restaurant website I'm developing for a client in Söğüt.
-
-- 🌐 [**My Personal Website**](https://naveus.netlify.app/)  
-  My personal website showcasing my work and introducing myself.
-
-- 🍴 [**Türk Mutfağı** - Turkish Cuisine Website](https://wtodev.netlify.app/)  
-  A website showcasing Turkish cuisine with Grid, Flexbox and jQuery.
-
-- 🎮 Reigns-like Card Game (Unity) *(Coming Soon)*  
-  A Reigns-style card game I'm developing with Unity.
-
-- 📝 Checklist App *(Coming Soon)*  
-  A mobile app I'm developing for simple task management.
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛡️ **SiberGuvenlik** | Cybersecurity education tool with Python & PyQt5 | [GitHub](https://github.com/Naveus/SiberGuvenlik) |
+| 🍽️ **Dinç Kardeşler** | Restaurant website for a client in Söğüt | [Website](https://erkanustaws.netlify.app/) |
+| 🌐 **Personal Website** | My personal portfolio website | [Website](https://naveus.netlify.app/) |
+| 🍴 **Türk Mutfağı** | Turkish cuisine website with Grid, Flexbox & jQuery | [Website](https://wtodev.netlify.app/) |
+| 🎮 **Card Game** | Reigns-style card game (Unity) | *Coming Soon* |
+| 📝 **Checklist App** | Mobile task management app | *Coming Soon* |
 
 ### 🌐 Let's Connect
 
-- 📧 Mail: [keremkaan099@gmail.com](mailto:keremkaan099@gmail.com)  
-- 💻 GitHub: [Naveus](https://github.com/Naveus)  
-- 🌍 Website: [naveus.netlify.app](https://naveus.netlify.app/)
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naveus&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+<p>
+  <a href="mailto:keremkaan099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Naveus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://naveus.netlify.app/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
 ---
@@ -88,16 +84,16 @@ A passionate developer.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naveus&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveus&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveus&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveus&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  "Always building, Always learning! ✍️"
+  <i>"Always building, Always learning! ✍️"</i>
 </p>
